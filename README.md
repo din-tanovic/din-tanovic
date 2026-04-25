@@ -1,16 +1,15 @@
-## Hi there 👋
+# Din Tanovic
 
-<!--
-**din-tanovic/din-tanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Operations & Support Specialist based in Stockholm.
 
-Here are some ideas to get you started:
+## Focus
+- Mac & Windows support  
+- Microsoft 365, Intune, JAMF  
+- Workflow optimization  
+- Hardware & asset management  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- LinkedIn: https://www.linkedin.com/in/din-tanovic  
+- Pinterest: https://www.pinterest.com/dintanovic  
+- Spotify: (din länk)  
+- About: https://about.me/dintanovic
