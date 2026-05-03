@@ -10,5 +10,3 @@ IT Operations & Support Specialist based in Stockholm.
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/din-tanovic  
-- Pinterest: https://www.pinterest.com/dintanovic  
-- About: https://about.me/dintanovic
