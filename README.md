@@ -1,6 +1,6 @@
 # Din Tanovic
 
-IT Operations & Support Specialist based in Stockholm.
+IT Operations & Support Specialist
 
 ## Focus
 - Mac & Windows support  
