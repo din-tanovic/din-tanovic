@@ -6,7 +6,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dintanovic)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://dintanovic.substack.com)
 
-An IT Coordinator, technology enthusiast, and all-around digital workplace nerd :hugs:
+## An IT Coordinator, technology enthusiast, and all-around digital workplace nerd <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 
 
