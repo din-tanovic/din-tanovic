@@ -6,7 +6,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dintanovic)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://dintanovic.substack.com)
 
-A passionate full-stack developer and all-around tech nerd :people_hugging:
+An IT Coordinator, technology enthusiast, and all-around digital workplace nerd :hugs:
 
 
 
