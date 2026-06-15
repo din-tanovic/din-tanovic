@@ -1,4 +1,4 @@
-
+<img src="Creative GitHub Banner Design.png" width="100%">
 
 # Hi there I'm Din!
 
