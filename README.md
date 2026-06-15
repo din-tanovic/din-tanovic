@@ -26,6 +26,9 @@ An IT Coordinator, technology enthusiast, and all-around digital workplace nerd 
 
 
 
+
+
+
 ## 🛠️ Technologies & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=github,powershell,windows,vscode,azure)](https://skillicons.dev)
