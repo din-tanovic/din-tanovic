@@ -49,4 +49,7 @@
 - GDPR & Information Security
 - Process Improvement & Automation
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=din-tanovic&show_icons=true&theme=default)
+
 ![](https://komarev.com/ghpvc/?username=din-tanovic&color=blueviolet)
