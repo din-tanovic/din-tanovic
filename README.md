@@ -1,9 +1,15 @@
-# Hi, I'm Din 👋
+# Hey there, I'm Din 👋
 
-💼 IT Coordinator focused on IT Operations, Business Systems & GDPR
+### IT Coordinator | GDPR Coordination | Systems & Operations
 
-🔐 Interested in IT Governance, Compliance & Information Security
+- 🖥️ Working with IT operations, systems administration and user enablement
+- 🔒 Interested in GDPR, compliance and information security
+- 📊 Passionate about improving processes and making technology work for people
+- 🌱 Currently learning more about automation and AI tools
+- ☕ Always happy to connect with other IT professionals
 
-☁️ Working with Microsoft 365, Entra ID, Intune and modern workplace technologies
+---
 
-📚 Currently learning more about automation, security and AI
+### Tech & Tools
+
+Microsoft 365 • Entra ID • Intune • Teams • Jira • ServiceNow • PowerShell
