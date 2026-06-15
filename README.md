@@ -11,9 +11,13 @@ An IT Coordinator, technology enthusiast, and all-around digital workplace nerd 
 
 
  ⚙️ IT Operations & Digital Workplace
+ 
  🧩 Microsoft 365 • Entra ID • Intune • Jamf
+ 
  🛡️ GDPR & Information Security
+ 
  ☕ IT Coordination & Service Delivery
+ 
  🤝 Open to connecting and collaborating
 
 
