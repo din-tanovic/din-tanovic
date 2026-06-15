@@ -3,3 +3,9 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/dintanovic)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dintanovic)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://dintanovic.substack.com)
+
+# Hi, I'm Din 👋
+
+IT Coordinator focused on IT Operations, GDPR Coordination, System Administration, and improving digital workplaces.
+
+[![My Skills](https://skillicons.dev/icons?i=github,powershell,windows,vscode)](https://skillicons.dev)
