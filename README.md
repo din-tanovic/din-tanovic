@@ -8,9 +8,14 @@
 
 IT Coordinator focused on IT Operations, GDPR Coordination, System Administration, and improving digital workplaces.
 
+## 🛠️ Technologies & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=github,powershell,windows,vscode,azure)](https://skillicons.dev)
+
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Jamf](https://img.shields.io/badge/Jamf-00263A?style=for-the-badge&logo=jamf&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white)
 
