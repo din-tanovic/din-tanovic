@@ -41,6 +41,12 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white)
 
+### 🚀 Current Focus
 
+- Microsoft 365 Administration
+- Entra ID & Identity Management
+- Endpoint Management with Intune & Jamf
+- GDPR & Information Security
+- Process Improvement & Automation
 
 ![](https://komarev.com/ghpvc/?username=din-tanovic&color=blueviolet)
