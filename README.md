@@ -12,4 +12,4 @@ IT Coordinator focused on IT Operations, GDPR Coordination, System Administratio
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DITT_GITHUB_NAMN&show_icons=true)
 
-![](https://komarev.com/ghpvc/?username=DITT_GITHUB_NAMN&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=din-tanovic&color=blueviolet)
