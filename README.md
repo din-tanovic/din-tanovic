@@ -20,7 +20,6 @@
  
  ☕ IT Coordination & Service Delivery
  
- 🤝 Open to connecting and collaborating
 
 
 
