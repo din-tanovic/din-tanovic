@@ -10,7 +10,6 @@
 
 ## An IT Coordinator, technology enthusiast, and all-around digital workplace nerd <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-<img src="https://readme-typing-svg.herokuapp.com?...">
 
  ⚙️ IT Operations & Digital Workplace
  
