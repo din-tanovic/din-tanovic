@@ -9,3 +9,7 @@
 IT Coordinator focused on IT Operations, GDPR Coordination, System Administration, and improving digital workplaces.
 
 [![My Skills](https://skillicons.dev/icons?i=github,powershell,windows,vscode)](https://skillicons.dev)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DITT_GITHUB_NAMN&show_icons=true)
+
+![](https://komarev.com/ghpvc/?username=DITT_GITHUB_NAMN&color=blueviolet)
