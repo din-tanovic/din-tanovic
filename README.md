@@ -7,10 +7,15 @@
 # Hi, I'm Din 👋
 
 ⚙️ Passionate about improving IT operations and creating seamless digital experiences
+
 🧩 Working with Microsoft 365, Entra ID, Intune, Jamf, and IT Service Management
+
 🛡️ Interested in GDPR, information security, and building reliable IT environments
+
 ☕ Ask me about IT coordination, endpoint management, process improvement, or workplace technology
+
 🤝 Always happy to connect, collaborate, and learn from other IT professionals
+
 
 
 
