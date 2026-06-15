@@ -33,7 +33,11 @@
 
 <h2>🛠️ Technologies & Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=github,powershell,windows,vscode,azure)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,powershell,windows,vscode,azure,apple&perline=6" />
+  </a>
+</p>
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
