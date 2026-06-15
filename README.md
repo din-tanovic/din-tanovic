@@ -10,6 +10,6 @@ IT Coordinator focused on IT Operations, GDPR Coordination, System Administratio
 
 [![My Skills](https://skillicons.dev/icons?i=github,powershell,windows,vscode)](https://skillicons.dev)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DITT_GITHUB_NAMN&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=din-tanovic&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=din-tanovic&color=blueviolet)
