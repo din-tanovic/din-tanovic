@@ -1,4 +1,4 @@
-![Banner](./Creative%20GitHub%20Banner%20Design.png)
+
 
 # Hi there I'm Din!
 
