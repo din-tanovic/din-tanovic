@@ -1,13 +1,10 @@
 # Din Tanovic
 
-IT Operations & Support Specialist
+A passionate IT Coordinator and technology enthusiast with a strong interest in workplace technology, IT operations, and digital transformation.
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJiYmV1dHdrem1saHg2NXh5eG0wbzl6dmV4aTh3ZDI5eDIwODM0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2FGpHn03EJNTjEbXso/giphy.gif
 
 ## Focus
-💻 Passionate about IT operations, workplace technology, and digital transformation
-📚 Currently working with IT coordination, GDPR compliance, infrastructure projects, device lifecycle management, and workplace technology
-🔒 Interested in IT security, governance, process improvement, and creating efficient IT environments
-🤝 Happy to connect with professionals in IT operations, support, infrastructure, and technology management
-🚀 Always looking to learn, improve processes, and contribute to better user experiences through technology
+
 
 
 ## Links
