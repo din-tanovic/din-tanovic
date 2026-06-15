@@ -1,6 +1,7 @@
 <img src="Untitled design.png" width="100%">
 
-# Hi there I'm Din!
+<h2>Hi there I'm Din!</h2>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/din-tanovic/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dintanovic)
@@ -30,7 +31,7 @@
 
 
 
-## 🛠️ Technologies & Tools
+<h2>🛠️ Technologies & Tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=github,powershell,windows,vscode,azure)](https://skillicons.dev)
 
