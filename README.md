@@ -34,9 +34,7 @@
 <h2>🛠️ Technologies & Tools</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,powershell,windows,vscode,azure,apple&perline=6" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=windows,linux,apple,azure,powershell,github,git,vscode,bash,docker,aws,gcp,notion&perline=7" />
 </p>
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
