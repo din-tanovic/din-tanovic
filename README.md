@@ -1,10 +1,9 @@
-# Din Tanovic
+# Hi, I'm Din 👋
 
-A passionate IT Coordinator and technology enthusiast with a strong interest in workplace technology, IT operations, and digital transformation.
+💼 IT Coordinator focused on IT Operations, Business Systems & GDPR
 
-## Focus
+🔐 Interested in IT Governance, Compliance & Information Security
 
+☁️ Working with Microsoft 365, Entra ID, Intune and modern workplace technologies
 
-
-## Links
-- LinkedIn: https://www.linkedin.com/in/din-tanovic  
+📚 Currently learning more about automation, security and AI
