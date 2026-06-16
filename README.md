@@ -1,4 +1,3 @@
-<img src="Untitled design.png" width="100%">
 
 <h2>Hi there I'm Din!</h2>
 
